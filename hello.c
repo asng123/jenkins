@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*test
+/*testhh
 */
 int main() {
   printf("<h1>Hello, Hongik!</h>");
