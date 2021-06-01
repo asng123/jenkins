@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*q1
+/*q12
 */
 int main() {
   printf("<h1>Hello, Hongik! I'm seungtae</h>");
