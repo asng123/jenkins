@@ -2,6 +2,6 @@
 /*q12
 */
 int main() {
-  printf("<h1>Hello, Hongik!wwwe</h>");
+  printf("<h1>Hello, Hongik!HI</h>");
   return 0;
 }
